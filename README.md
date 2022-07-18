@@ -5,11 +5,11 @@
 
 - I’m currently learning 🌱 **ReactJs, React Native, NodeJs, NestJs, PostgressSQL, ExpressJS.**
 
-- All of my projects are available at  👨‍💻 [https://abhay-sharma-portfolio.000webhostapp.com/](abhay-sharma-portfolio)
+- All of my projects are available at  👨‍💻 [abhay-sharma-portfolio](https://abhay-sharma-portfolio.000webhostapp.com/)
 
 - How to reach me 📫 **abhaysharma0606@gmail.com**
 
-- Know about my experiences 📄 [https://www.overleaf.com/project/62c9621a00879b1ea2c36899](Resume)
+- Know about my experiences 📄 [Resume](https://www.overleaf.com/project/62c9621a00879b1ea2c36899)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
