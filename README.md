@@ -9,7 +9,6 @@
 
 - How to reach me 📫 **abhaysharma0606@gmail.com**
 
-- Know about my experiences 📄 [Resume](https://www.overleaf.com/project/62c9621a00879b1ea2c36899)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
